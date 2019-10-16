@@ -1,0 +1,8 @@
+---
+- src: https://github.com/redhat-cop/openshift-applier
+  version: master
+
+# The git repository for this project
+- src: /home/generic_rhte/openshift-gitops-lab
+  name: self
+  version: master
